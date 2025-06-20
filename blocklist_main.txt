@@ -1,0 +1,30 @@
+# Xbox & MSFT Telemetry
+arc.msn.com
+g.live.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+vortex.data.microsoft.com
+watson.telemetry.microsoft.com
+telemetry.api.swiftkey.com
+
+# Fortnite Spectating & Telemetry
+fortnite-vod.akamaized.net
+tracking.fortnite.com
+
+# GTA Online Telemetry
+prod.telemetry.ros.rockstargames.com
+
+# Electric Arts Telemetry
+pin-em.data.ea.com
+
+# Retail Tracking
+analytics.mobile.walmart.com
+
+# DRM & Anti Piracy TopazLabs
+et.topazlabs.com
+
+# TV Telemetry & Ads
+logs.roku.com
+cloudservices.roku.com
+lgtvcommon.com
+us.info.lgsmartad.com
