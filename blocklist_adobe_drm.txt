@@ -1,0 +1,23 @@
+# Adobe DRM & Anti Piracy
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+wip3.adobe.com
+activate.wip3.adobe.com
+3dns-3.adobe.com
+3dns-2.adobe.com
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+ereg.wip3.adobe.com
+activate-sea.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com
+hl2rcv.adobe.com
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+na2m-pr.licenses.adobe.com
+ims-na1-prprod.adobelogin.com
+na4r.services.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
