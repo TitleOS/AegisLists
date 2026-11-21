@@ -1,0 +1,5 @@
+facebook-hardware.com
+portal.fb.com
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
+fbcdn.net
